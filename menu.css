@@ -1,0 +1,27 @@
+#menu{
+    position:fixed;
+    left:-110px;
+    top:50px;
+    width:100px;
+    padding:5px;
+    background-color:blue;
+}
+
+.bgButton{
+    width:100%;
+}
+
+.clopen{
+    position:absolute;
+    width:50px;
+    right:-50px;
+}
+
+
+#openButton{
+    top:0px;
+}
+
+#closeButton{
+    bottom:0px;
+}
